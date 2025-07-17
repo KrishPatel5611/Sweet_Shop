@@ -9,7 +9,6 @@ A Flask-based sweet shop management system with JSON storage for managing invent
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
