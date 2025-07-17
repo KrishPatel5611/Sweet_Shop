@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Krish Patel**
 - GitHub: [@KrishPatel5611](https://github.com/KrishPatel5611)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Krish Patel](https://www.linkedin.com/in/krish-patel-9a2b662b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: krishp1112004@gmail.com
 
 ## 🙏 Acknowledgments
 
