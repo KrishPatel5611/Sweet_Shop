@@ -10,7 +10,6 @@ A Flask-based sweet shop management system with JSON storage for managing invent
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
@@ -154,10 +153,6 @@ Sweet_Shop/
 - JSON file locking in concurrent access scenarios
 - No data validation on frontend forms
 - Limited error handling for file operations
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
